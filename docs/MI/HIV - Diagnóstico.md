@@ -5,6 +5,13 @@ parent: HIV
 ---
 
 # HIV - Diagnóstico
+{: .no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Testes de triagem
 Testes incialmente utilizados quando se solicita uma sorologia. Têm *alta sensibilidade*, mas normalmente têm *baixa especificidade*. Por isso, não podem ser usados isoladamente para o diagnóstico de HIV, mas são importantes para excluir a doença.
@@ -20,5 +27,6 @@ Ex.: western blot, immunoblot e imunofluorescência indireta
  - 2 testes rápidos de lotes diferentes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkxNzc1MDcsMTUyODA0NDk5N119
+eyJoaXN0b3J5IjpbLTEwMjcyNjI0MSwtMTcyOTE3NzUwNywxNT
+I4MDQ0OTk3XX0=
 -->
