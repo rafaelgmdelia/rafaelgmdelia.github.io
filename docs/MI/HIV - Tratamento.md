@@ -4,6 +4,14 @@ title: HIV - Tratamento
 parent: HIV
 ---
 # HIV - Tratamento 
+{: .no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Tratamento antirretroviral
 
 ### Inibidores de transcriptase reversa análogos de nucleosídeos
@@ -49,5 +57,5 @@ parent: HIV
 - CD4 > 50: introduzir TARV em até 8 semanas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNTE2Nzk3LC0xMzA0OTUyOTA0XX0=
+eyJoaXN0b3J5IjpbMTgyMDQ0MTcwMSwtMTMwNDk1MjkwNF19
 -->
