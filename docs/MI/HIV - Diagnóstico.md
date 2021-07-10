@@ -1,10 +1,8 @@
-
 ---
 layout: default
 title: HIV - Diagnóstico
 parent: HIV
 ---
-
 
 # HIV - Diagnóstico
 
@@ -22,5 +20,5 @@ Ex.: western blot, immunoblot e imunofluorescência indireta
  - 2 testes rápidos de lotes diferentes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4OTA2ODgxLDE1MjgwNDQ5OTddfQ==
+eyJoaXN0b3J5IjpbLTE3MjkxNzc1MDcsMTUyODA0NDk5N119
 -->
