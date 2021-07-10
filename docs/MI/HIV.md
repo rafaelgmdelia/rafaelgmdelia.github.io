@@ -4,6 +4,7 @@ title: HIV
 has_children: true
 ---
 # HIV
+{: .no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -58,5 +59,6 @@ Definida por um ou mais dos seguintes critérios
  - Percentual de células CD4+ <= 14%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU2MTU0OCwtMTYzNzE3NTY5Nl19
+eyJoaXN0b3J5IjpbMTQzMzAyMTg4NCwtMTcwNTYxNTQ4LC0xNj
+M3MTc1Njk2XX0=
 -->
