@@ -6,11 +6,14 @@ has_children: true
 # HIV
 {: .no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ## O vírus
 
@@ -59,6 +62,6 @@ Definida por um ou mais dos seguintes critérios
  - Percentual de células CD4+ <= 14%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzAyMTg4NCwtMTcwNTYxNTQ4LC0xNj
+eyJoaXN0b3J5IjpbMTY4NTI3ODAyOSwtMTcwNTYxNTQ4LC0xNj
 M3MTc1Njk2XX0=
 -->
