@@ -1,3 +1,11 @@
+
+---
+layout: default
+title: HIV - Diagnóstico
+parent: HIV
+---
+
+
 # HIV - Diagnóstico
 
 ## Testes de triagem
@@ -14,5 +22,5 @@ Ex.: western blot, immunoblot e imunofluorescência indireta
  - 2 testes rápidos de lotes diferentes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODA0NDk5N119
+eyJoaXN0b3J5IjpbMjc4OTA2ODgxLDE1MjgwNDQ5OTddfQ==
 -->
