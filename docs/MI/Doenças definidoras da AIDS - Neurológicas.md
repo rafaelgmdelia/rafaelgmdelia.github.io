@@ -5,8 +5,13 @@ parent: HIV
 ---
 
 # Doenças definidoras da AIDS - Neurológicas
+##  Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+---
 
 ## Alterações pelo HIV
 ### Encefalite/meningite por HIV agudo
@@ -134,5 +139,6 @@ Causada pelo fungo *Cryptococcus spp.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgyOTA0ODYsMjEzMzM1NTYxMV19
+eyJoaXN0b3J5IjpbLTk3MDYyOTYzNiwtMTc2ODI5MDQ4NiwyMT
+MzMzU1NjExXX0=
 -->
