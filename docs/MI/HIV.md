@@ -5,6 +5,12 @@ has_children: true
 ---
 # HIV
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## O vírus
 
  - **HIV-1:** responsável pela maior parte das infecções no mundo.  Alvo das terapias antirretrovirais e da maioria dos exames diagnósticos (*ELISA* e *western blot*). São mais agressivos e com frequência evoluem para óbito.
@@ -51,10 +57,6 @@ Definida por um ou mais dos seguintes critérios
  - Contagem de CD4+ para Linfócitos T de < 200 mcL
  - Percentual de células CD4+ <= 14%
 
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQ0MTk0OCwtMTYzNzE3NTY5Nl19
+eyJoaXN0b3J5IjpbLTE3MDU2MTU0OCwtMTYzNzE3NTY5Nl19
 -->
