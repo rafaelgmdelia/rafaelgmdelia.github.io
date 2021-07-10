@@ -5,6 +5,7 @@ parent: HIV
 ---
 
 # Doenças definidoras da AIDS - Neurológicas
+{: .no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -140,6 +141,6 @@ Causada pelo fungo *Cryptococcus spp.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTQyMjQsLTk3MDYyOTYzNiwtMTc2OD
-I5MDQ4NiwyMTMzMzU1NjExXX0=
+eyJoaXN0b3J5IjpbLTIyMzQyNjA5NCwtOTcwNjI5NjM2LC0xNz
+Y4MjkwNDg2LDIxMzMzNTU2MTFdfQ==
 -->
