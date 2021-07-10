@@ -5,7 +5,7 @@ parent: HIV
 ---
 # HIV - Tratamento 
 {: .no_toc}
-```
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -14,7 +14,7 @@ parent: HIV
 1. TOC
 {:toc}
 </details>
-```
+
 
 ## Tratamento antirretroviral
 
@@ -61,5 +61,5 @@ parent: HIV
 - CD4 > 50: introduzir TARV em até 8 semanas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njk4NzEzNiwtMTMwNDk1MjkwNF19
+eyJoaXN0b3J5IjpbMzg4ODI1MjE4LC0xMzA0OTUyOTA0XX0=
 -->
