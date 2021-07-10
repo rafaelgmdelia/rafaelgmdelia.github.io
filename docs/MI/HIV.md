@@ -1,10 +1,8 @@
-
 ---
 layout: default
 title: HIV
 has_children: true
 ---
-
 # HIV
 
 ## O vírus
@@ -58,6 +56,5 @@ Definida por um ou mais dos seguintes critérios
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY2OTgyMTIsLTE2MzcxNzU2OTZdfQ
-==
+eyJoaXN0b3J5IjpbMjEwODQ0MTk0OCwtMTYzNzE3NTY5Nl19
 -->
