@@ -54,7 +54,7 @@ Além disso, podem apresentam *linfadenopatia generalizada persistente* (linfono
 
 
 ### AIDS
-Quebra-se o equilíbrio de linfócitos T CD4 e outras infecções oportunistas aparecem. è a fase de complicações da doença, que se não tratada leva ao óbito certeiro.
+Quebra-se o equilíbrio de linfócitos T CD4 e outras infecções oportunistas aparecem. É a fase de complicações da doença, que se não tratada leva ao óbito certeiro.
 
 Definida por um ou mais dos seguintes critérios
  - Infecção por HIV que leva à infecção de qualquer uma das *Doenças definidoras da AIDS*
@@ -62,6 +62,6 @@ Definida por um ou mais dos seguintes critérios
  - Percentual de células CD4+ <= 14%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTI3ODAyOSwtMTcwNTYxNTQ4LC0xNj
-M3MTc1Njk2XX0=
+eyJoaXN0b3J5IjpbODI4NjI3ODg2LDE2ODUyNzgwMjksLTE3MD
+U2MTU0OCwtMTYzNzE3NTY5Nl19
 -->
