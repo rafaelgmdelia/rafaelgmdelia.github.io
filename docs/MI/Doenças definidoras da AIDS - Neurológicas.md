@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Doenças definidoras da AIDS - Neurológicas
+parent: HIV
+---
 # Doenças definidoras da AIDS - Neurológicas
 
 ## Alterações pelo HIV
@@ -127,5 +131,5 @@ Causada pelo fungo *Cryptococcus spp.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODI5NTQ2XX0=
+eyJoaXN0b3J5IjpbMjEzMzM1NTYxMV19
 -->
