@@ -13,3 +13,6 @@ Ex.: western blot, immunoblot e imunofluorescência indireta
  - 1 teste rápido + 1 teste confirmatório
  - 2 testes rápidos de lotes diferentes
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyODA0NDk5N119
+-->
