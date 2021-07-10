@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: HIV - Tratamento
+parent: HIV
+---
 # HIV - Tratamento 
 ## Tratamento antirretroviral
 
@@ -45,5 +49,5 @@
 - CD4 > 50: introduzir TARV em até 8 semanas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ5NTI5MDRdfQ==
+eyJoaXN0b3J5IjpbMjMyNTE2Nzk3LC0xMzA0OTUyOTA0XX0=
 -->
