@@ -5,6 +5,7 @@ parent: HIV
 ---
 
 # Doenças definidoras da AIDS - Neurológicas
+1. TOC
 {:toc}
 
 ## Alterações pelo HIV
@@ -133,5 +134,5 @@ Causada pelo fungo *Cryptococcus spp.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5Mjk0MDk5LDIxMzMzNTU2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjgyOTA0ODYsMjEzMzM1NTYxMV19
 -->
