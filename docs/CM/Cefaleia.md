@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HIV
+title: Cefaleia
 has_children: true
 ---
 # Cefaleia
@@ -143,5 +143,5 @@ Presente em 25% dos pacientes. Sintomas neurológicos focais, podendo ser visual
 - **P**apiledema
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0MzI5NzM0XX0=
+eyJoaXN0b3J5IjpbLTIxMzM0NjcxNzksMjI0MzI5NzM0XX0=
 -->
