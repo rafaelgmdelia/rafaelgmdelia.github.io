@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Cefaleia
-has_children: true
 ---
 # Cefaleia
 {: .no_toc}
@@ -143,5 +142,6 @@ Presente em 25% dos pacientes. Sintomas neurológicos focais, podendo ser visual
 - **P**apiledema
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0NjcxNzksMjI0MzI5NzM0XX0=
+eyJoaXN0b3J5IjpbMjAyMzA3MjczNSwtMjEzMzQ2NzE3OSwyMj
+QzMjk3MzRdfQ==
 -->
