@@ -41,7 +41,7 @@ title: Cefaleia
 ### Desencadeante
 ### Há quanto tempo?
 
-Classificação da International Headache Society **(ICHD-3)**
+Classificação da International Headache Society * [ICHD-3](https://ichd-3.org/)
 
 ## Cefaleia Primária
 Cefaleia primária é aquela em que não há causa subjacente, enquanto a cefaleia secundária está relacionada a algum outro transtorno. 
@@ -142,6 +142,6 @@ Presente em 25% dos pacientes. Sintomas neurológicos focais, podendo ser visual
 - **P**apiledema
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzA3MjczNSwtMjEzMzQ2NzE3OSwyMj
-QzMjk3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4ODMzMDM0NjcsMjAyMzA3MjczNSwtMj
+EzMzQ2NzE3OSwyMjQzMjk3MzRdfQ==
 -->
