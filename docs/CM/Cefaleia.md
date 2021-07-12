@@ -1,4 +1,21 @@
+---
+layout: default
+title: HIV
+has_children: true
+---
 # Cefaleia
+{: .no_toc}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
 ## Anamnese
 
 ### Característica da dor
@@ -126,5 +143,5 @@ Presente em 25% dos pacientes. Sintomas neurológicos focais, podendo ser visual
 - **P**apiledema
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MTg1NjYzXX0=
+eyJoaXN0b3J5IjpbMjI0MzI5NzM0XX0=
 -->
