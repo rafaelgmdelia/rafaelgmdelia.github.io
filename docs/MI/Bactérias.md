@@ -102,8 +102,8 @@
 	<thead>
 		<tr>
 			<td></td>
-			<td><b>Gram +</td>
-			<td><b>Gram -</td>
+			<td><b>Gram +</b></td>
+			<td><b>Gram -</b></td>
 		</tr>
 	</thead>
 	<tbody>
@@ -133,5 +133,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ3NzQ4MTgsMTk0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbMTUyMTQ1MDE3NiwtMTM0NDc3NDgxOCwxOT
+Q0MzY4MDcyXX0=
 -->
