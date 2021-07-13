@@ -60,6 +60,7 @@
 </table>
 
 ## Gram -
+
 <table>
 	<thead>
 		<td>Diplococo</td>
@@ -133,6 +134,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTQ1MDE3NiwtMTM0NDc3NDgxOCwxOT
-Q0MzY4MDcyXX0=
+eyJoaXN0b3J5IjpbLTE3MzY5NDQ0OTQsLTEzNDQ3NzQ4MTgsMT
+k0NDM2ODA3Ml19
 -->
