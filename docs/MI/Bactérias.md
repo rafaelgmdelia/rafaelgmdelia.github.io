@@ -46,12 +46,10 @@
 					</tbody>
 				</table>
 			</td>
-			<td><ul>
-				<li>Nocardia</li>
-			</ul></td>
-			<td><ul>
-				<li>Actinomyces</li>
-			</ul></td>	
+			<td>
+				Nocardia
+			</td>
+			<td>Actinomyces</td>	
 		</tr>
 	</tbody>
 </table>
@@ -131,6 +129,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTA1NjYzNywtMTM0NDc3NDgxOCwxOT
+eyJoaXN0b3J5IjpbMjA4MzczNjM5MywtMTM0NDc3NDgxOCwxOT
 Q0MzY4MDcyXX0=
 -->
