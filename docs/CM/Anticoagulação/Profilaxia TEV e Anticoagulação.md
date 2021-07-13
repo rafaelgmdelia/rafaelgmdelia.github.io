@@ -62,7 +62,7 @@
 3. Rivaroxabana (Xarelto)
 	-	Um dos novos anticoagulantes orais
 	-	Mantem níveis séricos mais estáveis
-	-	Menores efeitos a
+	-	Menores efeitos adversos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwMzI3MjUsOTQ5MzQ5MjY5XX0=
+eyJoaXN0b3J5IjpbLTYwNTY0NjQ0Nyw5NDkzNDkyNjldfQ==
 -->
