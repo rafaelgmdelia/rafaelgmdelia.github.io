@@ -100,11 +100,9 @@
 ## Simplificado
 |      |Gram +  | Gram -|
 |------|--------|-------|
-| Coco | <ul><li>Strepto</li>li>Staphylo</li>
-					<li>Entero</li>
-					</ul>     |  |
-| Bacilo|        |     |
+| Coco |<ul><li>Strepto</li><li>Staphylo</li><li>Entero</li></ul>|  Neisseria|
+| Bacilo|        |<ul><li>Enterobacter</li><li>Pseudomonas</li><li>Haemophilus</li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NzE1NTY5LDE5NDQzNjgwNzJdfQ==
+eyJoaXN0b3J5IjpbLTY2MDkzNDM2MywxOTQ0MzY4MDcyXX0=
 -->
