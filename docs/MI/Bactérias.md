@@ -96,6 +96,12 @@
 		</tr>
 	</tbody>
 </table>
+
+## Simplificado
+|  |  |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbLTE0NzY4NTk3OTgsMTk0NDM2ODA3Ml19
 -->
