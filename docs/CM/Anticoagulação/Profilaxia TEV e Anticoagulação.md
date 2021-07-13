@@ -45,9 +45,13 @@
 		- Interfere na via extrínseca e comum
 		- Monitorar INR
 	- 5mg 1x/dia; dosar INR a cada 7 dias
-		- INR < 2: aumentar 10% da dose semanal 
+		- INR < 2: aumentar 10% da dose semanal
+		- INR > 3: diminuir 10% da dose semanal 
 
 2. Heparina
+	- Pode estimular antitrombina, fator Xa e via intrínseca
+	- **Heparina não fracionada**
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4MTg4NzUsOTQ5MzQ5MjY5XX0=
+eyJoaXN0b3J5IjpbLTEzMjIxMjk5Nyw5NDkzNDkyNjldfQ==
 -->
