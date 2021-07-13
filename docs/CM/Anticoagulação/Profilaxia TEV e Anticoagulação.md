@@ -12,7 +12,13 @@
 - Contraindicações:
 	- **Absolutas:** já em uso de anticoagulação plena; alergias; trombocitopenia induzida por heparina; sangramento ativo; coleta de LCR há < 2 horas; plaquetopenia < 50 mil
 	- **Relativas:** trombocitopenia induzida por heparina há mais de 100 dias; plaquetopenia entre 50 e 100 mil; coagulopatia; HAS não controlada ( > 180x110)
-	- Enoxa
+	- Enoxaparina e heparina não fracionada têm excreção renal. Em caso de DRC, costuma-se usar heparina não fracionada
+
+## Anticoagulação Ambulatorial
+### Indicações
+- TEV provocado: aqueles em que identificamos fator desencadeante
+- TEV não provocado: 
+- Fibrilação Atrial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ5Mzc1MzYsOTQ5MzQ5MjY5XX0=
+eyJoaXN0b3J5IjpbLTY5MjY2Mzg0Miw5NDkzNDkyNjldfQ==
 -->
