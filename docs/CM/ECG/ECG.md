@@ -31,8 +31,11 @@
 	- Assimétrica: sobe lenta e desce rápido
 	- Mesma direção de QRS (com exceção de V1)
 9. Intervalo QT
-10. Outras ondas
+	- Corrigido: QT/sqrt(RR)
+	- Normal: 350-450ms 
+11. Outras ondas
 	- Onda U
+	- Onda J de Osborne
 
 ## Sobrecargas
 
@@ -42,5 +45,5 @@
 
 ## Taquiarritmias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NDM4NTM4XX0=
+eyJoaXN0b3J5IjpbLTg1ODE1MTIxMSwzMzU0Mzg1MzhdfQ==
 -->
