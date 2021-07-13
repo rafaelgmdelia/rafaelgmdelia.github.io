@@ -7,7 +7,7 @@
 - Indicação de profilaxia: critério obrigatório + 1 critério adicional
 - Opções:
 	- Enoxaparina 40mg subC 1x/dia
-	- Heparina não fracionada 5000 subC 8/8h
+	- Heparina não fracionada 5000 U subC 8/8h
 	- Mecânica: compressão pneumática intermitente de MMII
 - Contraindicações:
 	- **Absolutas:** já em uso de anticoagulação plena; alergias; trombocitopenia induzida por heparina; sangramento ativo; coleta de LCR há < 2 horas; plaquetopenia < 50 mil
@@ -51,7 +51,11 @@
 2. Heparina
 	- Pode estimular antitrombina, fator Xa e via intrínseca
 	- **Heparina não fracionada**
-		- 
+		- 5000 U subC 8/8h
+		- Monitoração pelo TTPA
+		- Tem antídoto (protamina) em caso de sangramento
+	- **Heparina de baixo peso molecular**
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIxMjk5Nyw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbMTkxNzEyMjMyNCw5NDkzNDkyNjldfQ==
 -->
