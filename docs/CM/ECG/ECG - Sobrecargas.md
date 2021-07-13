@@ -33,10 +33,13 @@
 			- .> 28 mm para homens
 			- .> 20 mm para mulheres
 - **Escore de Romhilt-Estes**
-
+	- Diagnóstico: 5 pontos ou mais
+	- Cornell ou Sokolow: +3
+	- Strain de VE: +3
+	- Índice de Morris: +3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQ1NzQzM119
+eyJoaXN0b3J5IjpbNTg0MjMwNjcyLDEyODk0NTc0MzNdfQ==
 -->
