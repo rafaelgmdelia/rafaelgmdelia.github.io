@@ -109,13 +109,30 @@
 	<tbody>
 		<tr>
 			<td>Coco</td>
-			<td><ul><li>Strepto</li><li>Staphylo</li><li>Entero</li></ul></td>
-			
+			<td><ul>
+				<li>Strepto</li>
+				<li>Staphylo</li>
+				<li>Entero</li>
+			</ul></td>
+			<td><ul>
+			<li>Neisseria</li></ul></td>
 		</tr>
-| Coco ||  <ul><li>Neisseria</li></ul>|
-| Bacilo|        |<ul><li>Enterobacter</li><li>Pseudomonas</li><li>Haemophilus</li><li>Klebsiella</li><li>Acinetobacter</li><li>E. coli</li></ul>|
+		<tr>
+			<td>Bacilo</td>
+			<td></td>
+			<td><ul>
+				<li>Enterobacter</li>
+				<li>Pseudomonas</li>
+				<li>Haemophilus</li>
+				<li>Klebsiella</li>
+				<li>Acinetobacter</li>
+				<li>E. coli</li>
+			</ul></td>
+		</tr>
+| Coco ||  |
+| Bacilo|        ||
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1NDAwMjcsMTk0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbLTcyNzkyMDYxOCwxOTQ0MzY4MDcyXX0=
 -->
