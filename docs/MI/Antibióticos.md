@@ -3,13 +3,9 @@
 ### Betalactâmicos
  1. **Penicilinas**
 	-	Penicilinas naturais
-		Cocos (exceto estafilo), neisseria e anaeróbios
 	-	Aminopenicilinas
 		-	Ampicilina
-		Se internar
-		Cocos e bacilos (exceto estafilo)
 		-	Amoxicilina
-		
 	- Penicilinas anti-estafilocócicas
 		- Oxacilina
 	- Penicilinas anti-pseudomonas
@@ -59,5 +55,5 @@
 ### Sem classe
 - Metronidazol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc4NTg5NTEsMTcyMDI0NzM0N119
+eyJoaXN0b3J5IjpbMTcyMDI0NzM0NywxNzIwMjQ3MzQ3XX0=
 -->
