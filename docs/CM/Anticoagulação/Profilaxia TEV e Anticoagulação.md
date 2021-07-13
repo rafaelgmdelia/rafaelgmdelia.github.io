@@ -10,8 +10,9 @@
 	- Heparina não fracionada 5000 subC 8/8h
 	- Mecânica: compressão pneumática intermitente de MMII
 - Contraindicações:
-	- **Absolutas:** já em uso de anticoagulação plena, alergias, trombocitopenia induzida por heparina, sangramento ativo, coleta de LCR há < 2 horas, plaquetopenia < 50 mil
-	- **Relativas:** trombocitopenia induzida por heparina há mais de 100 dias
+	- **Absolutas:** já em uso de anticoagulação plena; alergias; trombocitopenia induzida por heparina; sangramento ativo; coleta de LCR há < 2 horas; plaquetopenia < 50 mil
+	- **Relativas:** trombocitopenia induzida por heparina há mais de 100 dias; plaquetopenia entre 50 e 100 mil; coagulopatia; HAS não controlada ( > 180x110)
+	- Enoxa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDc3NzM3OSw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ5Mzc1MzYsOTQ5MzQ5MjY5XX0=
 -->
