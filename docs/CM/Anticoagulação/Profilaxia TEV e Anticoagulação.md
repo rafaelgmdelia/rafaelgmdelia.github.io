@@ -16,9 +16,15 @@
 
 ## Anticoagulação Ambulatorial
 ### Indicações
-- TEV provocado: aqueles em que identificamos fator desencadeante
-- TEV não provocado: 
+- TEV provocado: aqueles em que identificamos fator desencadeante. Nesses casos, anticoagulação por 3 meses.
+- TEV não provocado: por tempo indeterminado. (vale para câncer, mesmo que a causa seja conhecida)
 - Fibrilação Atrial
+
+### Fibrilação Atrial
+#### Score CHADSVAC
+- **C**
+- **H**
+- **A**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjY2Mzg0Miw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbLTExNjI4ODA5MjIsOTQ5MzQ5MjY5XX0=
 -->
