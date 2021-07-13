@@ -16,14 +16,12 @@
 			<td>Anaeróbio</td>
 		</tr>
 		<tr>
-			<td><ul>
-				<li>Listeria</li>
-				<li>Bacillus</li>
-				<li>Corynebacterium</li>	
-			</ul></td>
-			<td><ul>
-				<li>Clostridium</li>
-			</ul></td>
+			<td>
+				Listeria<br>
+				Bacillus<br>
+				Corynebacterium</br>	
+			</td>
+			<td>Clostridium</td>
 			<td> 
 				<table>
 					<thead>
@@ -32,13 +30,13 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td><ul>
-								<li>S. pneumoniae</li>
-								<li>S. agalactiae</li>
-								<li>S. pyogenes</li>	
-								<li>S. bovis</li>	
-								<li>S. pyogenes</li>	
-								<li><b>Enterococci</b></li>	
+							<td>
+								S. pneumoniae</br>
+								S. agalactiae</br>
+								S. pyogenes</li>	
+								S. bovis</li>	
+								S. pyogenes</li>	
+								<b>Enterococci</b></li>	
 							</ul></td>
 							<td><ul>
 								<li>S. aureus</li>
@@ -134,6 +132,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY5NDQ0OTQsLTEzNDQ3NzQ4MTgsMT
+eyJoaXN0b3J5IjpbLTE4NzE4NTYxNDAsLTEzNDQ3NzQ4MTgsMT
 k0NDM2ODA3Ml19
 -->
