@@ -24,13 +24,16 @@
 #### Score CHADSVASC
 - **C**ongestive heart failure
 - **H**ipertensão
-- **A**ge (> 75 anos) - vale 2 ptos
+- **A**ge >= 75 anos - vale 2 ptos
 - **D**iabetes
 - **S**troke (IAM ou AVC) - vale 2 ptos
-- **V**ascular (
-- **A**
-- **S**
-- **C**
+- **V**ascular (TEV prévio, obstrução arterial, aterosclerose)
+- **A**ge entre 65 e 74 anos
+- **SC** sexo feminino
+|  |  |
+|--|--|
+|0 ptos  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDY5MDE0Niw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbLTEyNzE3NjIzNjUsOTQ5MzQ5MjY5XX0=
 -->
