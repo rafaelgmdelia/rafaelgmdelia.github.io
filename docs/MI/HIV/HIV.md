@@ -62,6 +62,5 @@ Definida por um ou mais dos seguintes critérios
  - Percentual de células CD4+ <= 14%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NjI3ODg2LDE2ODUyNzgwMjksLTE3MD
-U2MTU0OCwtMTYzNzE3NTY5Nl19
+eyJoaXN0b3J5IjpbODI4NjI3ODg2XX0=
 -->
