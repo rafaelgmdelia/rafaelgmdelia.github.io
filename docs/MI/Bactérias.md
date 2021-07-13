@@ -98,12 +98,18 @@
 </table>
 
 ## Aeróbios
-
+<table>
+	<thead>
+		<tr>
+		</tr>
+	</thead>
+	<tbody>
 |      |Gram +  | Gram -|
 |------|--------|-------|
 | Coco |<ul><li>Strepto</li><li>Staphylo</li><li>Entero</li></ul>|  <ul><li>Neisseria</li></ul>|
 | Bacilo|        |<ul><li>Enterobacter</li><li>Pseudomonas</li><li>Haemophilus</li><li>Klebsiella</li><li>Acinetobacter</li><li>E. coli</li></ul>|
-
+	</tbody>
+</table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3OTkyNTYsMTk0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbMTM5NjYyMzcxNCwxOTQ0MzY4MDcyXX0=
 -->
