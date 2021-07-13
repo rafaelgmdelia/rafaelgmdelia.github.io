@@ -55,7 +55,10 @@
 		- Monitoração pelo TTPA
 		- Tem antídoto (protamina) em caso de sangramento
 	- **Heparina de baixo peso molecular**
-	- 
+		- Enoxaparina, age diretamente no fator X (via comum)
+		- 40 mg subC para profilaxia
+		- 1mg/kg de 12/12h para anticoagulação
+		- Menor risco de sangramento do que heparina não fracionada, mas não pode ser usada em pacientes com Cl Cr < 30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzEyMjMyNCw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbNjE3MDQ5Nzc0LDk0OTM0OTI2OV19
 -->
