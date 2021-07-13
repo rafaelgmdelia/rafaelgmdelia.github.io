@@ -21,10 +21,16 @@
 - Fibrilação Atrial
 
 ### Fibrilação Atrial
-#### Score CHADSVAC
-- **C**
-- **H**
+#### Score CHADSVASC
+- **C**ongestive heart failure
+- **H**ipertensão
+- **A**ge (> 75 anos) - vale 2 ptos
+- **D**iabetes
+- **S**troke (IAM ou AVC) - vale 2 ptos
+- **V**ascular (
 - **A**
+- **S**
+- **C**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI4ODA5MjIsOTQ5MzQ5MjY5XX0=
+eyJoaXN0b3J5IjpbLTY1MDY5MDE0Niw5NDkzNDkyNjldfQ==
 -->
