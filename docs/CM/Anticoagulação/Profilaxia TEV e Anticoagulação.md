@@ -10,7 +10,8 @@
 	- Heparina não fracionada 5000 subC 8/8h
 	- Mecânica: compressão pneumática intermitente de MMII
 - Contraindicações:
-	- Absolutas: já em uso de ant 
+	- **Absolutas:** já em uso de anticoagulação plena, alergias, trombocitopenia induzida por heparina, sangramento ativo, coleta de LCR há < 2 horas, plaquetopenia < 50 mil
+	- **Relativas:** trombocitopenia induzida por heparina há mais de 100 dias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDQyOTA2OCw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbLTY2MDc3NzM3OSw5NDkzNDkyNjldfQ==
 -->
