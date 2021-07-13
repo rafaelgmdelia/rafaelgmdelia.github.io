@@ -102,8 +102,8 @@
 	<thead>
 		<tr>
 			<td></td>
-			<td>Gram +</td>
-			<td>Gram -</td>
+			<td><b>Gram +</td>
+			<td><b>Gram -</td>
 		</tr>
 	</thead>
 	<tbody>
@@ -115,7 +115,8 @@
 				<li>Entero</li>
 			</ul></td>
 			<td><ul>
-			<li>Neisseria</li></ul></td>
+				<li>Neisseria</li>
+			</ul></td>
 		</tr>
 		<tr>
 			<td>Bacilo</td>
@@ -129,10 +130,8 @@
 				<li>E. coli</li>
 			</ul></td>
 		</tr>
-| Coco ||  |
-| Bacilo|        ||
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzkyMDYxOCwxOTQ0MzY4MDcyXX0=
+eyJoaXN0b3J5IjpbLTEzNDQ3NzQ4MTgsMTk0NDM2ODA3Ml19
 -->
