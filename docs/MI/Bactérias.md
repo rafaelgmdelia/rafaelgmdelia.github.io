@@ -100,9 +100,11 @@
 ## Simplificado
 |      |Gram +  | Gram -|
 |------|--------|-------|
-| Coco |    <ul><li>Strepto</     |  |
+| Coco | <ul><li>Strepto</li>li>Staphylo</li>
+					<li>Entero</li>
+					</ul>     |  |
 | Bacilo|        |     |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTAwNDY0NywxOTQ0MzY4MDcyXX0=
+eyJoaXN0b3J5IjpbODU2NzE1NTY5LDE5NDQzNjgwNzJdfQ==
 -->
