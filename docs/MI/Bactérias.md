@@ -31,12 +31,11 @@
 					<tbody>
 						<tr>
 							<td>
-								S. pneumoniae</br>
-								S. agalactiae</br>
-								S. pyogenes</li>	
-								S. bovis</li>	
-								S. pyogenes</li>	
-								<b>Enterococci</b></li>	
+								S. pneumoniae<br>
+								S. agalactiae<br>
+								S. pyogenes<br>	
+								S. bovis<br>	
+								<b>Enterococci</b><br>	
 							</ul></td>
 							<td><ul>
 								<li>S. aureus</li>
@@ -132,6 +131,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE4NTYxNDAsLTEzNDQ3NzQ4MTgsMT
-k0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbMTk0OTA1NjYzNywtMTM0NDc3NDgxOCwxOT
+Q0MzY4MDcyXX0=
 -->
