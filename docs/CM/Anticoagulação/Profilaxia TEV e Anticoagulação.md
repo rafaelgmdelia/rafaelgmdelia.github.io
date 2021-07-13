@@ -29,11 +29,14 @@
 - **S**troke (IAM ou AVC) - vale 2 ptos
 - **V**ascular (TEV prévio, obstrução arterial, aterosclerose)
 - **A**ge entre 65 e 74 anos
-- **SC** sexo feminino
-|  |  |
+- **S**ex **C**ategory female
+
+|  Pontos| Risco  |
 |--|--|
-|0 ptos  |  |
+|0 ptos  | 0,2% |
+|1 pto| 0,6% |
+|>=2 ptos| |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE3NjIzNjUsOTQ5MzQ5MjY5XX0=
+eyJoaXN0b3J5IjpbMTk3NjgwMTk1OSw5NDkzNDkyNjldfQ==
 -->
