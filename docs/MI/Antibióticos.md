@@ -3,6 +3,7 @@
 ### Betalactâmicos
  1. **Penicilinas**
 	-	Penicilinas naturais
+Cocos, neisseria e ana
 	-	Aminopenicilinas
 		-	Ampicilina
 		-	Amoxicilina
@@ -55,5 +56,5 @@
 ### Sem classe
 - Metronidazol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDI0NzM0N119
+eyJoaXN0b3J5IjpbODk3OTU5OTA0LDE3MjAyNDczNDddfQ==
 -->
