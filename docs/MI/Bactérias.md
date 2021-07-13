@@ -36,12 +36,12 @@
 								S. pyogenes<br>	
 								S. bovis<br>	
 								<b>Enterococci</b><br>	
-							</ul></td>
-							<td><ul>
-								<li>S. aureus</li>
-								<li>S. epidermidis</li>
-								<li>S. saprophyticus</li>
-							</ul></td>
+							</td>
+							<td>
+								S. aureus<br>
+								S. epidermidis<br>
+								S. saprophyticus<br>
+							</td>
 						</tr>
 					</tbody>
 				</table>
@@ -65,26 +65,26 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><ul>
-				<li>Neisseria gonorrhoeae</li>
-				<li>Neisseria meningitidis</li>
-				<li>Moraxella</li>
-			</ul></td>
-			<td><ul>
-				<li>Haemophilus influenza</li>
-				<li>Pasteurella</li>
-			</ul></td>
-			<td><ul>
-				<li>Shigella</li>
-				<li>Pseudomonas</li>
-				<li>Acinetobacter</li>
-				<li>Citrobacter</li>
-				<li>E. coli</li>
-				<li>Klebsiella</li>
-				<li>Enterobacter</li>
-			</ul></td>
-			<td><ul>
-				<li>C. jejuni</li>
+			<td>
+				Neisseria gonorrhoeae<br>
+				Neisseria meningitidis<br>
+				Moraxella<br>
+			</td>
+			<td>
+				Haemophilus influenza<br>
+				Pasteurella<br>
+			</td>
+			<td>
+				Shigella<br>
+				Pseudomonas<br>
+				Acinetobacter<br>
+				Citrobacter<br>
+				E. coli<br>
+				Klebsiella<br>
+				Enterobacter<br>
+			</td>
+			<td>
+				C. jejuni</li>
 				<li>V. cholerae</li>
 				<li>H. pylori</li>
 			</ul></td>
@@ -129,6 +129,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzczNjM5MywtMTM0NDc3NDgxOCwxOT
-Q0MzY4MDcyXX0=
+eyJoaXN0b3J5IjpbMTgyMTcwNDEyLC0xMzQ0Nzc0ODE4LDE5ND
+QzNjgwNzJdfQ==
 -->
