@@ -42,9 +42,12 @@
 1. Varfarina
 	- Mais barato, disponível no SUS
 	- Antagonista de vitamina K (inibe fatores II, VII, IX e X)
-	- 
+		- Interfere na via extrínseca e comum
+		- Monitorar INR
+	- 5mg 1x/dia; dosar INR a cada 7 dias
+		- INR < 2: aumentar 10% da dose semanal 
 
 2. Heparina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MzAxMzI2LDk0OTM0OTI2OV19
+eyJoaXN0b3J5IjpbLTE0Mzk4MTg4NzUsOTQ5MzQ5MjY5XX0=
 -->
