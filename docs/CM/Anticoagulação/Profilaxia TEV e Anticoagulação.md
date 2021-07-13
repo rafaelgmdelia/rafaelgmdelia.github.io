@@ -3,6 +3,7 @@
 ## Paciente internado:
 - Critério Obrigatório: *redução de mobilidade* (passa mais de 50% do dia na cama, por >= 3 dias)
 - Critério Adicional:
+
 <img src="https://raw.githubusercontent.com/rafaelgmdelia/rafaelgmdelia.github.io/main/docs/CM/Anticoagula%C3%A7%C3%A3o/criteriosAdd.PNG">
 - Indicação de profilaxia: critério obrigatório + 1 critério adicional
 - Opções:
@@ -64,5 +65,5 @@
 	-	Mantem níveis séricos mais estáveis
 	-	Menores efeitos adversos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTY0NjQ0Nyw5NDkzNDkyNjldfQ==
+eyJoaXN0b3J5IjpbMTI0MzU0Njg1MSw5NDkzNDkyNjldfQ==
 -->
