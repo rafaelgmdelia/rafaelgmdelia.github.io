@@ -84,10 +84,10 @@
 				Enterobacter<br>
 			</td>
 			<td>
-				C. jejuni</li>
-				<li>V. cholerae</li>
-				<li>H. pylori</li>
-			</ul></td>
+				C. jejuni<br>
+				V. cholerae<br>
+				H. pylori<br>
+			</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -129,6 +129,6 @@
 	</tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTcwNDEyLC0xMzQ0Nzc0ODE4LDE5ND
-QzNjgwNzJdfQ==
+eyJoaXN0b3J5IjpbMTU3NjgyNjgwOCwtMTM0NDc3NDgxOCwxOT
+Q0MzY4MDcyXX0=
 -->
