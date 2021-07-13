@@ -98,10 +98,11 @@
 </table>
 
 ## Simplificado
-|  |  |
-|--|--|
-|  |  |
+|      |Gram +  | Gram -|
+|------|--------|-------|
+| Coco |    <ul><li>Strepto</     |  |
+| Bacilo|        |     |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY4NTk3OTgsMTk0NDM2ODA3Ml19
+eyJoaXN0b3J5IjpbLTUxOTAwNDY0NywxOTQ0MzY4MDcyXX0=
 -->
