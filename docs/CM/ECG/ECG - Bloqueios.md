@@ -36,16 +36,11 @@ Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
 	- S em DIII > 15 mm
 - Causas: Chagas (BRD + BDAS)
 
- ## Bloqueio Atrioventricular
- 
-
-
-- 
-
-...
-
-
+## Bloqueio Atrioventricular
+### Bloqueio Atrioventricular de 1º grau (BAV 1º)
+- Lentificação, mas tem passagem do estímulo
+- Intervalo PR > 5mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTU1NDk0NywyMDQ3MTczOTFdfQ==
+eyJoaXN0b3J5IjpbLTkxMTkwNTg4MSwyMDQ3MTczOTFdfQ==
 -->
