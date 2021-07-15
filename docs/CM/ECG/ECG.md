@@ -43,13 +43,6 @@ has_children: true
 	- Onda U
 	- Onda J de Osborne
 
-## Sobrecargas
-
-## Bloqueios Atrioventriculares e de Ramo
-
-## Infarto
-
-## Taquiarritmias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NzAwNjgzLDMzNTQzODUzOF19
+eyJoaXN0b3J5IjpbMjA0MTA5NjAwLDMzNTQzODUzOF19
 -->
