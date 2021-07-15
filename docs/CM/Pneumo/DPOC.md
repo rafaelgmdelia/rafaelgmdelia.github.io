@@ -1,0 +1,75 @@
+# Doença Pulmonar Obstrutiva Crônica (DPOC)
+
+Doença respiratória comum, caracterizada pela restrição irreversível do fluxo de ar.
+- Fatores de risco: tabagismo, exposição a fogão à lenha, etc... 
+## Sinais e Sintomas
+- Presença de sintomas persistentes
+- Dispneia progressiva e persistente
+- Tosse crônica
+- Produção de escarro
+- Episódios de exacerbação (piora dos sintomas, em média 1 ou 2 vezes ao ano)
+- Cefaleia matinal (em casos avançados, sinaliza hipercapnia ou hipoxemia noturna)
+- Sinais de doença avançada:
+	- uso de musculatura respiratória acessória
+	- sinal de Hoover: movimento paradoxal da caixa torácica inferior para dentro na inspiração
+	- 
+### Exame físico
+- Tórax em barril
+- Hipertimpanismo à percussão
+- Redução de murmúrios vesiculares
+- Sibilos na expiração
+- Crepitação em bases
+- *Cor pulmonale* (IC direita)
+	- turgência jugular
+	- hepatomegalia
+	- edema de MMII
+
+
+## Diagnóstico
+- Sintomas característicos + fator de exposição + espirometria de padrão obstrutivo
+### Espirometria
+Padrão obstrutivo
+- VEF1/CVF pós broncodilatador < 70%
+- Pouca resposta a broncodilatadores
+
+## Classificação 
+
+### Classificação da dispneia pelo questionário do British Medical Research Council (mMRC) modificado
+<table>
+	<thead>
+		<tr>
+			<td><b>Grau</td>
+			<td><b>Dispneia</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>0</td>
+			<td>Nenhuma, exceto durante exercícios extenuantes</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Ocorre ao correr em terreno plano ou caminhar em uma pequena inclinação</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Preciso caminhar mais lento do que pessoas da mesma idade em terreno plano, ou preciso parar para tomar fôlego ao caminhar em um ritmo próprio em terreno plano</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Resulta em parar para recuperar o folego após uma caminhada de cerca de 100 m ou depois de alguns minutos em terreno plano</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Grave o suficiente para impedir que a pessoa saia de casa, ou ocorre ao se vestir ou despir</td>
+		</tr>
+	</tbody>
+</table>
+###  
+
+## Tratamento 
+- 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwNTM4MTIzNV19
+-->
