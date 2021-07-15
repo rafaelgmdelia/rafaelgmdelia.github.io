@@ -28,12 +28,15 @@ Continua puxando para a esquerda, mas de forma mais demorada.
 
 ## Bloqueio Divisional Antero Superior (BDAS)
 Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
-- Desvio de eixo QRS para além de -45° e < 120ms
+- Desvio de eixo QRS para **além de -45°** e **< 120ms**
+- Complexo QRS não alarga
+- S e
+- 
 
 ...
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzE3MzkxXX0=
+eyJoaXN0b3J5IjpbMTUxNjQ1Njk5MywyMDQ3MTczOTFdfQ==
 -->
