@@ -1,3 +1,8 @@
+---
+layout: default
+title: ECG - Sobrecargas
+parent: ECG
+---
 # ECG - Sobrecargas
 ## Atriais (onda P)
 ### Átrio esquerdo
@@ -238,5 +243,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE4MDIsMTI4OTQ1NzQzM119
+eyJoaXN0b3J5IjpbLTEzNzMyNjY2MDJdfQ==
 -->
