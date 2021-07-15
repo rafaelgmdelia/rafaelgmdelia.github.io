@@ -43,8 +43,14 @@ Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
 
 ### Bloqueio Atrioventricular de 2º grau (BAV 2º)
 #### Mobitz 1 ou Weckenbach
-Aumento progressivo de PR até a onda P ser bloqueada
+Aumento progressivo de PR até a onda P ser bloqueada, e em seguida reinicia
+
+#### Mobitz 2
+PR constante seguido de onda P bloqueada do nada
+
+#### Tipo 2:1
+A cada 2 ondas P, 1 gera QRS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjE3NTYzNywyMDQ3MTczOTFdfQ==
+eyJoaXN0b3J5IjpbNzI4NjI0OTM0LDIwNDcxNzM5MV19
 -->
