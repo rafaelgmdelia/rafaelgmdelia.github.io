@@ -50,10 +50,11 @@ PR constante seguido de onda P bloqueada do nada
 Para cada duas ondas P, uma conduz QRS
 
 ### Bloqueio Atrioventricular Total (BAVT)
-Nenhum impulso atrial passa para os ventrículos, resultando em dissociação das frequê
+- Nenhum impulso atrial passa para os ventrículos, resultando em dissociação das frequências de ondas P e de complexos QRS
+- Apresenta-se como a sobreposição de ondas P de ritmo constante e de complexos QRS de ritmo constante, mas menos frequentes, de maneira desordenada
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM3NDMzMzQsMjA0NzE3MzkxXX0=
+eyJoaXN0b3J5IjpbNTgyNDUxMDg5LDIwNDcxNzM5MV19
 -->
