@@ -38,9 +38,13 @@ Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
 
 ## Bloqueio Atrioventricular
 ### Bloqueio Atrioventricular de 1º grau (BAV 1º)
-- Lentificação, mas tem passagem do estímulo
+- Condução lentificada, mas tem passagem do estímulo
 - Intervalo PR > 5mm
 
+### Bloqueio Atrioventricular de 2º grau (BAV 2º)
+#### Mobitz 1 ou Weckenbach
+Aumento progressivo de PR até a onda P ser bloqueada
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTkwNTg4MSwyMDQ3MTczOTFdfQ==
+eyJoaXN0b3J5IjpbMTAyNjE3NTYzNywyMDQ3MTczOTFdfQ==
 -->
