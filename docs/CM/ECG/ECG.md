@@ -1,3 +1,9 @@
+---
+layout: default
+title: ECG
+has_children: true
+---
+
 # ECG
 ## Passo a passo
 1. Identificação
@@ -45,5 +51,5 @@
 
 ## Taquiarritmias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODE1MTIxMSwzMzU0Mzg1MzhdfQ==
+eyJoaXN0b3J5IjpbNjg4NzAwNjgzLDMzNTQzODUzOF19
 -->
