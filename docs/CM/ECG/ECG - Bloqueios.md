@@ -14,23 +14,32 @@ Estímulo vai normal até o nó atrioventricular e em algum ponto ocorre a inter
 	- **positiva**: para frente -> direita -> BRD
 	- **negativa**: para trás -> esquerda -> BRE
 
-## Bloqueio de Ramo Direito
+### Bloqueio de Ramo Direito
 Quando há bloqueio de ramo direito, o VD despolariza depois do VE
 - **V1**:  onda R' positiva (morfologia RsR' com onda T invertida)
 - **V6**: alargamento de onda S
 - - Causas: DAC, cardiomiopatias, anomalia de Ebstein
 
-## Bloqueio de Ramo Esquerdo
+### Bloqueio de Ramo Esquerdo
 Continua puxando para a esquerda, mas de forma mais demorada.
 -**V1**: morfologia rS com onda T invertida
 **V6**: retardo da posição, relativa à despolarização do VE (padrão Torre)
 - Causas: cardiopatia isquêmica
 
-## Bloqueio Divisional Antero Superior (BDAS)
+### Bloqueio Divisional Antero Superior (BDAS)
 Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
 - Desvio de eixo QRS para **além de -45°** e **< 120ms**
 - Complexo QRS não alarga
-- S e
+- Morfologia:
+	- S em DIII > S em DII
+	- S em DII > 10 mm
+	- S em DIII > 15 mm
+- Causas: Chagas (BRD + BDAS)
+
+ ## Bloqueio Atrioventricular
+ 
+
+
 - 
 
 ...
@@ -38,5 +47,5 @@ Bloqueio no ramo anterosuperior do ramo E do feixe de Hiss.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjQ1Njk5MywyMDQ3MTczOTFdfQ==
+eyJoaXN0b3J5IjpbLTcxNTU1NDk0NywyMDQ3MTczOTFdfQ==
 -->
