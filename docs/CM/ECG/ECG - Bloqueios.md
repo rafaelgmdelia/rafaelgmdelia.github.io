@@ -1,3 +1,8 @@
+---
+layout: default
+title: ECG - Bloqueios
+parent: ECG
+---
 # ECG - Bloqueios
 Condução está lentificada ou bloqueada e segue o caminho por outro ramo
 
@@ -56,5 +61,5 @@ Para cada duas ondas P, uma conduz QRS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNDUxMDg5LDIwNDcxNzM5MV19
+eyJoaXN0b3J5IjpbMTg0NTk3MTBdfQ==
 -->
