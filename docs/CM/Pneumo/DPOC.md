@@ -127,9 +127,11 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 - Cessação de tabagismo
 
 ### Medidas farmacológicas
+LAMA: antagonistas muscarínicos de longa duração
 
+LABA: agonistas beta adrenérgicos de longa duração
 - **GOLD A:** broncodilatador (salbutamol, fenoterol) conforme necessidade
-- **GOLD B:** LAMA() + LABA()
+- **GOLD B:** LAMA() + LABA( )
 
 
 ## Consulta
@@ -138,5 +140,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjQ0MjI1MCwxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbLTExMzUzMzk2NjQsMTIzMjQ0MjI1MCwxND
+A1MzgxMjM1XX0=
 -->
