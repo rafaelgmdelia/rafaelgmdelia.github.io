@@ -1,4 +1,4 @@
-# ATB empíricos
+# ATB - Empírico
 
 ## Infecções Respiratórias
 ### Pneumonia adquirida em comunidade (PAC)
@@ -106,5 +106,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkwMDIzMjQsMTI2Mjg4MjEyNV19
+eyJoaXN0b3J5IjpbMTYwMDM0NDA2OCwxMjYyODgyMTI1XX0=
 -->
