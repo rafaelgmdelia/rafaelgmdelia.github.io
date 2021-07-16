@@ -1,11 +1,14 @@
 ---
 layout: default
-title: ECG - Bloqueios
+title: ECG - Arritmias
 parent: ECG
 ---
 
 # ECG - Arritmias
+
+
 Alteração em origem, frequência ou condução do estímulo
+
 ## Etiologias Atriais
 ### Ritmo sinusal
 - QRS comandado por onda P
@@ -69,5 +72,5 @@ Alteração em origem, frequência ou condução do estímulo
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMyODA5OTcsMTQ5MDkyNzI1NF19
+eyJoaXN0b3J5IjpbLTE2OTU2NTc1MTgsMTQ5MDkyNzI1NF19
 -->
