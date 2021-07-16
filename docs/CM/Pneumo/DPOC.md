@@ -4,7 +4,7 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 - Fatores de risco: tabagismo, exposição a fogão à lenha, etc... 
 
 ## Sinais e Sintomas
-- Presença de sintomas persistentes
+
 - Dispneia progressiva e persistente
 - Tosse crônica
 - Produção de escarro
@@ -141,13 +141,15 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
  - **SABA:** agonistas beta adrenérgicos de curta duração (ex: salbutamol)
  -  **ICS:** corticoide inalatório (ex: budesonida)
 
-### Oxi
+### Oxigenioterapia
+- **Gasometria:** pO2 < 55 e SatO2 < 88% -> oxigênio domiciliar
+
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTYxOTM1MywxMjMyNDQyMjUwLDE0MD
+eyJoaXN0b3J5IjpbMTA2MTg1OTk2OSwxMjMyNDQyMjUwLDE0MD
 UzODEyMzVdfQ==
 -->
