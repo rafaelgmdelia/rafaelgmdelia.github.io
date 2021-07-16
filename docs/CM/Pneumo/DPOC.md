@@ -72,8 +72,8 @@ Padrão obstrutivo
 <table>
 	<thead>
 		<tr>
-			<td><b>Grau</td>
-			<td><b>Em pacientes com VEF1/CVF < 70%</td>
+			<td><b>Grau</b></td>
+			<td><b>Em pacientes com VEF1/CVF < 70%</b></td>
 		</tr>
 	</thead>
 	<tbody>
@@ -98,11 +98,6 @@ Padrão obstrutivo
 
 ### Clínica
 
-|História de internações  | mMRC 0-1 | mMRC >=2|
-|--|--|--|
-| >= 2/ano, ou 1 internação | C | D |
-| 0 ou 1, sem internação | A | B |
-
 
 ## Tratamento 
 - 
@@ -110,5 +105,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODMxNjczNywxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbLTQ0NDA2NjU1NCwxNDA1MzgxMjM1XX0=
 -->
