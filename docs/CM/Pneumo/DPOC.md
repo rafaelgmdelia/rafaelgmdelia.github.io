@@ -28,9 +28,9 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 ## Diagnóstico
 - Sintomas característicos + fator de exposição + espirometria de padrão obstrutivo
 ### Espirometria
-Padrão obstrutivo
-- VEF1/CVF pós broncodilatador < 70%
-- Pouca resposta a broncodilatadores
+	Padrão obstrutivo
+	- VEF1/CVF pós broncodilatador < 70%
+	- Pouca resposta a broncodilatadores
 
 ## Classificação 
 
@@ -105,5 +105,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDA2NjU1NCwxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbLTEzNzk5ODAwNjYsMTQwNTM4MTIzNV19
 -->
