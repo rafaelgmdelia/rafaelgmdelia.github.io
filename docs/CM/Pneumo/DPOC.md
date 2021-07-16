@@ -38,8 +38,8 @@ Padrão obstrutivo
 <table>
 	<thead>
 		<tr>
-			<td><b>Grau</td>
-			<td><b>Dispneia</td>
+			<td><b>Grau</b></td>
+			<td><b>Dispneia</b></td>
 		</tr>
 	</thead>
 	<tbody>
@@ -107,5 +107,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NzM2Mzk5LDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbMzg2NDQ1MTAxLDE0MDUzODEyMzVdfQ==
 -->
