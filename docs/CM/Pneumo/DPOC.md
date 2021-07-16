@@ -125,13 +125,18 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 ### Medidas não farmacológicas
 - Reabilitação pulmonar
 - Cessação de tabagismo
+
 ### Medidas farmacológicas
-- **GOLD A:** broncodilatador
+
+- **GOLD A:** broncodilatador (salbutamol, fenoterol) conforme necessidade
 - **GOLD B:** LAMA() + LABA()
+
+
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
+
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTk3MTk2LDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbMTIzMjQ0MjI1MCwxNDA1MzgxMjM1XX0=
 -->
