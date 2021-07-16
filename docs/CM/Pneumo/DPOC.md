@@ -130,23 +130,24 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 
 
 - **GOLD A:** SABA conforme necessidade
-- **GOLD B:** LABA (formoterol)  em uso regular (manutenção)
-- **GOLD C:** LAMA (tiotrópico) em,uso regular
+- **GOLD B:** LABA ou LAMA em uso regular (manutenção)
+- **GOLD C:** LAMA em uso regular
 - **GOLD D:** LAMA ou LAMA + LABA ou LABA + ICS
 
 ### Siglas
 
- - **LAMA:** antagonistas muscarínicos de longa duração
- -  **LABA:** agonistas beta adrenérgicos de longa duração
- - **SABA:** agonistas beta adrenérgicos de curta duração
- -  **ICS:** corticoide inalatório
+ - **LAMA:** antagonistas muscarínicos de longa duração (ex: tiotrópio)
+ -  **LABA:** agonistas beta adrenérgicos de longa duração (ex: formoterol)
+ - **SABA:** agonistas beta adrenérgicos de curta duração (ex: salbutamol)
+ -  **ICS:** corticoide inalatório (ex: budesonida)
 
+### Oxi
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MDMxNTEwLDEyMzI0NDIyNTAsMTQwNT
-M4MTIzNV19
+eyJoaXN0b3J5IjpbMTI3MTYxOTM1MywxMjMyNDQyMjUwLDE0MD
+UzODEyMzVdfQ==
 -->
