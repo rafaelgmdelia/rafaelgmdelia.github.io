@@ -76,19 +76,19 @@ Padrão obstrutivo
 	<tbody>
 		<tr>
 			<td>GOLD 1 (Leve)</td>
-			<td>VEF1/CVF <</td>
+			<td>VEF1/CVF > 80% do previsto</td>
 		</tr>
 		<tr>
 			<td>GOLD 2 (Moderada)</td>
-			<td>Preciso caminhar mais lento do que pessoas da mesma idade em terreno plano, ou preciso parar para tomar fôlego ao caminhar em um ritmo próprio em terreno plano</td>
+			<td>50% < VEF1/CVF < 80% do previsto</td>
 		</tr>
 		<tr>
 			<td>GOLD 3 (Grave)</td>
-			<td>Resulta em parar para recuperar o folego após uma caminhada de cerca de 100 m ou depois de alguns minutos em terreno plano</td>
+			<td>30% < VEF1/CVF < 50% do previsto</td>
 		</tr>
 		<tr>
 			<td>GOLD 4 (Muito grave)</td>
-			<td>Grave o suficiente para impedir que a pessoa saia de casa, ou ocorre ao se vestir ou despir</td>
+			<td>VEF1/CVF < 30% do previsto</td>
 		</tr>
 	</tbody>
 </table>
@@ -99,5 +99,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMzk5MDY5LDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbMTY0NjMyOTE1OCwxNDA1MzgxMjM1XX0=
 -->
