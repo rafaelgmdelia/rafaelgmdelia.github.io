@@ -122,10 +122,15 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 
 
 ## Tratamento 
-### Me
+### Medidas não farmacológicas
+- Reabilitação pulmonar
+- Cessação de tabagismo
+### Medidas farmacológicas
+- **GOLD A:** broncodilatador
+- **GOLD B:** LAMA() LABA
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMDY5NDI0LDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTExMTE1MjA5MSwxNDA1MzgxMjM1XX0=
 -->
