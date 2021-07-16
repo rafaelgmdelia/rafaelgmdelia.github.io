@@ -48,6 +48,7 @@ Alteração em origem, frequência ou condução do estímulo
 
 ### Taquicardia de Reentrada Nodal (TRN)
 - Circuito de reentrada dentro do nó AV (gerando FC ~180 bpm)
+- Extrassístole capaz de gerar reentrada
 - RR regular
 - QRS estreito: percorre Hiss
 
@@ -74,6 +75,6 @@ Alteração em origem, frequência ou condução do estímulo
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTE1Mjg1MCwtMTY5NTY1NzUxOCwxND
-kwOTI3MjU0XX0=
+eyJoaXN0b3J5IjpbLTEyMDMxOTM2ODQsMTIxNTE1Mjg1MCwtMT
+Y5NTY1NzUxOCwxNDkwOTI3MjU0XX0=
 -->
