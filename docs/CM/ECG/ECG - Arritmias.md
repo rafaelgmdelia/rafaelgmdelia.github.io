@@ -1,3 +1,9 @@
+---
+layout: default
+title: ECG - Bloqueios
+parent: ECG
+---
+
 # ECG - Arritmias
 Alteração em origem, frequência ou condução do estímulo
 ## Etiologias Atriais
@@ -63,5 +69,5 @@ Alteração em origem, frequência ou condução do estímulo
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDkyNzI1NF19
+eyJoaXN0b3J5IjpbLTExOTMyODA5OTcsMTQ5MDkyNzI1NF19
 -->
