@@ -122,10 +122,10 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 
 
 ## Tratamento 
-- 
+### Me
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MTY5MTQsMTQwNTM4MTIzNV19
+eyJoaXN0b3J5IjpbODYwMDY5NDI0LDE0MDUzODEyMzVdfQ==
 -->
