@@ -130,9 +130,9 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 
 
 - **GOLD A:** SABA conforme necessidade
-- **GOLD B:** LABA (formoterol) 2x/dia em uso regular (manutenção)
-- **GOLD C:** LAMA (tiotrópico) ou LABA (formoterol) 2x/dia em uso regular (manutenção) + ICS
-- **GOLD D:** LAMA + LABA + ICS
+- **GOLD B:** LABA (formoterol)  em uso regular (manutenção)
+- **GOLD C:** LAMA (tiotrópico) em,uso regular
+- **GOLD D:** LAMA ou LAMA + LABA ou LABA + ICS
 
 ### Siglas
 
@@ -147,6 +147,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYyOTIyMSwxMjMyNDQyMjUwLDE0MD
-UzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbNjI5MDMxNTEwLDEyMzI0NDIyNTAsMTQwNT
+M4MTIzNV19
 -->
