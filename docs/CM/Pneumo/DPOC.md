@@ -65,7 +65,8 @@ Padrão obstrutivo
 		</tr>
 	</tbody>
 </table>
-###  
+###  GOLD (Espirometria)
+
 
 ## Tratamento 
 - 
@@ -73,5 +74,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODM0MzQ5NiwxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbMjM4MjAxODA5LDE0MDUzODEyMzVdfQ==
 -->
