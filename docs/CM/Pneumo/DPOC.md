@@ -95,7 +95,7 @@ Padrão obstrutivo
 
 ### Clínica
 
-|História de internações  | mMRC 0-1 | mMRC 2-4|
+|História de internações  | mMRC 0-1 | mMRC >=2|
 |--|--|--|
 | >= 2/ano, ou 1 internação | C | D |
 | 0 ou 1, sem internação | A | B |
@@ -107,5 +107,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1OTAwMDcsMTQwNTM4MTIzNV19
+eyJoaXN0b3J5IjpbOTk2NzM2Mzk5LDE0MDUzODEyMzVdfQ==
 -->
