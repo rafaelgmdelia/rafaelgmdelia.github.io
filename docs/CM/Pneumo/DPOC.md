@@ -35,6 +35,7 @@ Padrão obstrutivo
 ## Classificação 
 
 ### Classificação da dispneia pelo questionário do British Medical Research Council (mMRC) modificado
+
 <table>
 	<thead>
 		<tr>
@@ -65,7 +66,9 @@ Padrão obstrutivo
 		</tr>
 	</tbody>
 </table>
+
 ###  GOLD (Espirometria)
+
 <table>
 	<thead>
 		<tr>
@@ -107,5 +110,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NDQ1MTAxLDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTY5ODMxNjczNywxNDA1MzgxMjM1XX0=
 -->
