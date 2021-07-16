@@ -1,7 +1,8 @@
 # Doença Pulmonar Obstrutiva Crônica (DPOC)
 
 Doença respiratória comum, caracterizada pela restrição irreversível do fluxo de ar.
-- Fatores de risco: tabagismo, exposição a fogão à lenha, etc... 
+## Fatores de risco
+= tabagismo, exposição a fogão à lenha, etc... 
 
 ## Sinais e Sintomas
 
@@ -150,6 +151,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NDM2NjAsMTA2MTg1OTk2OSwxMjMyND
-QyMjUwLDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjk5NDc5MDgsNjg4NDM2NjAsMTA2MT
+g1OTk2OSwxMjMyNDQyMjUwLDE0MDUzODEyMzVdfQ==
 -->
