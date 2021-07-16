@@ -69,7 +69,9 @@ Padrão obstrutivo
 
 ## Tratamento 
 - 
+## Consulta
+> [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTM4MTIzNV19
+eyJoaXN0b3J5IjpbLTI0ODM0MzQ5NiwxNDA1MzgxMjM1XX0=
 -->
