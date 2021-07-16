@@ -97,6 +97,27 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 </table>
 
 ### Clínica
+<table>
+	<thead>
+		<tr>
+			<th>História de internações</th>
+			<th>mMRC 0-1</th>
+			<th>mMRC &gt;=2</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>&gt;= 2/ano, ou 1 internação</td>
+<td>C</td>
+<td>D</td>
+</tr>
+<tr>
+<td>0 ou 1, sem internação</td>
+<td>A</td>
+<td>B</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Tratamento 
@@ -105,5 +126,5 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5ODAwNjYsMTQwNTM4MTIzNV19
+eyJoaXN0b3J5IjpbLTE1MTE1NTUwODAsMTQwNTM4MTIzNV19
 -->
