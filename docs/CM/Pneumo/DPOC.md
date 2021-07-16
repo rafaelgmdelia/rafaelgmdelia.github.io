@@ -129,7 +129,7 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 ### Medidas farmacológicas
 
 
-- **GOLD A:** broncodilatador (salbutamol, fenoterol) conforme necessidade
+- **GOLD A:** SABA conforme necessidade
 - **GOLD B:** LABA (formoterol) 2x/dia em uso regular (manutenção)
 - **GOLD C:** LAMA (tiotrópico) ou LABA (formoterol) 2x/dia em uso regular (manutenção) + ICS
 - **GOLD D:** LAMA + LABA + ICS
@@ -138,7 +138,7 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 
  - **LAMA:** antagonistas muscarínicos de longa duração
  -  **LABA:** agonistas beta adrenérgicos de longa duração
- - **SABA:** ag
+ - **SABA:** agonistas beta adrenérgicos de curta duração
  -  **ICS:** corticoide inalatório
 
 ## Consulta
@@ -147,6 +147,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0MjM5MDgyLDEyMzI0NDIyNTAsMTQwNT
-M4MTIzNV19
+eyJoaXN0b3J5IjpbLTExMzYyOTIyMSwxMjMyNDQyMjUwLDE0MD
+UzODEyMzVdfQ==
 -->
