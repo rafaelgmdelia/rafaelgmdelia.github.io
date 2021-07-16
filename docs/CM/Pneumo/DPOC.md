@@ -2,7 +2,9 @@
 
 Doença respiratória comum, caracterizada pela restrição irreversível do fluxo de ar.
 ## Fatores de risco
-= tabagismo, exposição a fogão à lenha, etc... 
+- Tabagismo,
+- Exposição a fogão à lenha
+- Amianto
 
 ## Sinais e Sintomas
 
@@ -151,6 +153,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk5NDc5MDgsNjg4NDM2NjAsMTA2MT
-g1OTk2OSwxMjMyNDQyMjUwLDE0MDUzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTc1MTE1OTIyNyw2ODg0MzY2MCwxMDYxOD
+U5OTY5LDEyMzI0NDIyNTAsMTQwNTM4MTIzNV19
 -->
