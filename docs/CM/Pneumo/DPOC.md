@@ -92,7 +92,13 @@ Padrão obstrutivo
 		</tr>
 	</tbody>
 </table>
+
 ### Clínica
+
+|História de internações  |  ||
+|--|--|--|
+|  | C |  |
+|  |  |  |
 
 
 ## Tratamento 
@@ -101,5 +107,5 @@ Padrão obstrutivo
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ5NDIwNCwxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbMjE1MTQxOTk2LDE0MDUzODEyMzVdfQ==
 -->
