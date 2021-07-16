@@ -13,7 +13,7 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 - Sinais de doença avançada:
 	- uso de musculatura respiratória acessória
 	- sinal de Hoover: movimento paradoxal da caixa torácica inferior para dentro na inspiração
-	- 
+
 ### Exame físico
 - Tórax em barril
 - Hipertimpanismo à percussão
@@ -150,6 +150,6 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTg1OTk2OSwxMjMyNDQyMjUwLDE0MD
-UzODEyMzVdfQ==
+eyJoaXN0b3J5IjpbNjg4NDM2NjAsMTA2MTg1OTk2OSwxMjMyND
+QyMjUwLDE0MDUzODEyMzVdfQ==
 -->
