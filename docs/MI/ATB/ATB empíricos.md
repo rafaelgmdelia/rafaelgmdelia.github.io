@@ -65,7 +65,7 @@
 - Amoxicilina + Clavulanato
 
 ### Infecções necrotizantes de pele
-- Gram +. gram - e amaeróbios
+- Gram +. gram - e anaeróbios
 - Ceftriaxona + Clindamicina
 - Vancomicina + Amicacina + Metronidazol
 - Vancomicina + Meropenem
@@ -106,5 +106,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mjg4MjEyNV19
+eyJoaXN0b3J5IjpbLTE4MDkwMDIzMjQsMTI2Mjg4MjEyNV19
 -->
