@@ -127,14 +127,17 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 - Cessação de tabagismo
 
 ### Medidas farmacológicas
-LAMA: antagonistas muscarínicos de longa duração
-LABA: agonistas beta adrenérgicos de longa duração
-- formoterol
-ICS: corticoide inalatório
+
 
 - **GOLD A:** broncodilatador (salbutamol, fenoterol) conforme necessidade
-- **GOLD B:** LAMA ou LABA
+- **GOLD B:** LAMA (tiotrópico) ou LABA (formoterol) 2x/dia em uso regular (manutenção)
+- 
 
+### Siglas
+
+ - **LAMA:** antagonistas muscarínicos de longa duração
+ -    **LABA:** agonistas beta adrenérgicos de longa duração
+ -    **ICS:** corticoide inalatório
 
 ## Consulta
 > [GOLD Report](https://goldcopd.org/gold-reports/)
@@ -142,6 +145,6 @@ ICS: corticoide inalatório
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTk0NzE1LDEyMzI0NDIyNTAsMTQwNT
+eyJoaXN0b3J5IjpbMTA1ODM1MzQwLDEyMzI0NDIyNTAsMTQwNT
 M4MTIzNV19
 -->
