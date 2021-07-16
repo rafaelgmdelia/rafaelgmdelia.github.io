@@ -19,6 +19,7 @@ Alteração em origem, frequência ou condução do estímulo
 	- Se FC < 60 bpm: Bradicardia sinusal
 
 ### Ritmo Atrial Ectópico
+
 - QRS comandado por onda P
 - P de morfologia constante
 - Eixo **fora** de 0º e 90º (onda P invertida)
@@ -73,6 +74,6 @@ Alteração em origem, frequência ou condução do estímulo
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwMzYwNjAsLTE2OTU2NTc1MTgsMT
-Q5MDkyNzI1NF19
+eyJoaXN0b3J5IjpbMTIxNTE1Mjg1MCwtMTY5NTY1NzUxOCwxND
+kwOTI3MjU0XX0=
 -->
