@@ -19,7 +19,7 @@
 ### Rinossinusite
 - S. pneumonia, H. influenza, M. catarrhalis
 - Amoxicilina
-- Amoxicilina + Clavulanato (se ESBL)
+- Amoxicilina + Clavulanato (se betalactamase)
 
 ## ITU
 ### Cistite não complicada
@@ -106,5 +106,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM0NDA2OCwxMjYyODgyMTI1XX0=
+eyJoaXN0b3J5IjpbLTEyMDY1MDIwMTksMTYwMDM0NDA2OCwxMj
+YyODgyMTI1XX0=
 -->
