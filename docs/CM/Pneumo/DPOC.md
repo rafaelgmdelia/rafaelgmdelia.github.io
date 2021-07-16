@@ -2,6 +2,7 @@
 
 Doença respiratória comum, caracterizada pela restrição irreversível do fluxo de ar.
 - Fatores de risco: tabagismo, exposição a fogão à lenha, etc... 
+
 ## Sinais e Sintomas
 - Presença de sintomas persistentes
 - Dispneia progressiva e persistente
@@ -126,5 +127,5 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [GOLD Report](https://goldcopd.org/gold-reports/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzU2MzEwMCwxNDA1MzgxMjM1XX0=
+eyJoaXN0b3J5IjpbMjY4MTY5MTQsMTQwNTM4MTIzNV19
 -->
