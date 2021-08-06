@@ -83,19 +83,19 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 	<tbody>
 		<tr>
 			<td>GOLD 1 (Leve)</td>
-			<td>VEF1/CVF > 80% do previsto</td>
+			<td>VEF1/CVF > 80% do previsdito</td>
 		</tr>
 		<tr>
 			<td>GOLD 2 (Moderada)</td>
-			<td>50% < VEF1/CVF < 80% do previsto</td>
+			<td>50% < VEF1/CVF < 80% do previsdito</td>
 		</tr>
 		<tr>
 			<td>GOLD 3 (Grave)</td>
-			<td>30% < VEF1/CVF < 50% do previsto</td>
+			<td>30% < VEF1/CVF < 50% do previsdito</td>
 		</tr>
 		<tr>
 			<td>GOLD 4 (Muito grave)</td>
-			<td>VEF1/CVF < 30% do previsto</td>
+			<td>VEF1/CVF < 30% do previsdito</td>
 		</tr>
 	</tbody>
 </table>
@@ -153,6 +153,7 @@ Doença respiratória comum, caracterizada pela restrição irreversível do flu
 > [PCDT DPOC](http://conitec.gov.br/images/Consultas/Relatorios/2021/20210623_Relatorio_PCDT_Doenca_Pulmonar_Obstrutiva_Cronica.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTE1OTIyNyw2ODg0MzY2MCwxMDYxOD
-U5OTY5LDEyMzI0NDIyNTAsMTQwNTM4MTIzNV19
+eyJoaXN0b3J5IjpbNzU1NDg4MDI3LC03NTExNTkyMjcsNjg4ND
+M2NjAsMTA2MTg1OTk2OSwxMjMyNDQyMjUwLDE0MDUzODEyMzVd
+fQ==
 -->
