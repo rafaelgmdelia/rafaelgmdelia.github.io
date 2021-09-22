@@ -45,8 +45,12 @@ A pré-eclâmpsia é uma doença específica da gestação, classicamente diagno
 - **Cefaleia**
 
 ## Conduta mediante pré-eclâmpsia sem sinais de gravidade
+Monitorar pressão arterial, com redução da atividade física e pesagem diária;
+Não é necessário dieta hipossódica;
+Orientar paciente quanto a sintomas de eminência de eclâmpsia e sinais de pré-eclâmpsia grave;
+Controle laboratorial semanal>
 
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQ0OTg3LC0xNzMyNTA0OTkxXX0=
+eyJoaXN0b3J5IjpbNzU2NTkwNDU3LC0xNzMyNTA0OTkxXX0=
 -->
