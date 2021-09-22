@@ -82,8 +82,8 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **E** levated **L** iver enzymes
 - **L** ow **P** latelets
 
-	Associada a altos riscos de mortalidade materna.
-Nela, há ativação intravascular da splaquetas e lesão endotelial;
+- Associada a altos riscos de mortalidade materna.
+Nela, há ativação intravascular das plaquetas e lesão endotelial;
 Ocorre mais no terceiro trimestre e 30% no pós-parto;
 Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômitos
 ### Critérios diagnósticos
@@ -104,6 +104,6 @@ Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômito
 - Transfusão de plaquetas se < 20000 plaquetas/mm³ ou < 50000 plaquetas/mm³ na cesárea
 - A menor contagem de plaquetas acontece nas 23 horas pós-parto; pode ocorrer trombocitose de rebote
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODM0MjM5MSwxMjAxMzgyNCwtMTczMj
+eyJoaXN0b3J5IjpbLTIzNTg4MjUyNiwxMjAxMzgyNCwtMTczMj
 UwNDk5MV19
 -->
