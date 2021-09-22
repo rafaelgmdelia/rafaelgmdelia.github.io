@@ -91,7 +91,13 @@ Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômito
 	- Aumento de bilirubina total: > 1,2 mg%
 	- Aumento de DHL : > 600 UI/L
 - **Elevação de enzimas hepáticas**
-	- AST e/ou ALT > 2x
+	- AST e/ou ALT > 2x o limite superior da normalidade
+- **Plaquetopenia**
+	- < 100000 plaquetas/mm³
+
+### Tratamento
+- Exames laboratoriais a cada 12 horas; TGP > 2000 UI/L ou DHL > 3000 UI/L sugerem risco de mort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTEzMTk1NSwtMTczMjUwNDk5MV19
+eyJoaXN0b3J5IjpbLTE5NDE1NjY5MjMsLTE3MzI1MDQ5OTFdfQ
+==
 -->
