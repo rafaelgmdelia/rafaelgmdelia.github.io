@@ -1,4 +1,18 @@
-# Diagnóstico da gravidez
+---
+layout: default
+title: Diagnóstico de gravidez
+---
+# Diagnóstico de gravidez
+{: .no_toc}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Diagnóstico clínico
 ### Sinais de presunção da gravidez
@@ -50,5 +64,5 @@ Ao suspeitar de gravidez, deve-se proceder com a **dosagem sérica de beta-HCG**
 ## Diagnóstico Ultrassonográfico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyNDU0MjFdfQ==
+eyJoaXN0b3J5IjpbODU3NDYyNzAyLC0xMTY1MjQ1NDIxXX0=
 -->
