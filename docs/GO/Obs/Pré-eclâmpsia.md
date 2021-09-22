@@ -71,7 +71,10 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **> 34 semanas de gestação:** interrupção da gestação
 - ** < 24 semanas de gestação:** avaliar resolução de gestação
 - **24 a 33 semanas de gestação:** tentar manter gestação até 34 semanas;
-- **Anti-hipertensivo:** se PA < 160x110 mmHg, anti-hipertensivo VO; se PA > 160x
+- **Anti-hipertensivo:** se PA < 160x110 mmHg, anti-hipertensivo VO; se PA >= 160x110 mmHg, uso de anti-hipertensivo IV + sulfato de magnésio
+- **Controle laboratorial**
+- **Avaliação do bem-estar e crescimento fetal:** cardiotocografia diária se > 26 semanas + DOpppler fetal, duas ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzc5MzMxNSwtMTczMjUwNDk5MV19
+eyJoaXN0b3J5IjpbLTExMjkyMTYwOTMsLTE3MzI1MDQ5OTFdfQ
+==
 -->
