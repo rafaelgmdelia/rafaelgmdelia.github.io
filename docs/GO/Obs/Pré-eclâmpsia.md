@@ -77,9 +77,12 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **Corticoide para amadurecimento pulmonar:** betametasona 12mg IM 24/24h por 48h, ou dexametasona 6mg IM 12/12h por 48h
 
 
-## Síndrome HELP
-- **H** emólise
-- **EL** 
+## Síndrome HELLP
+- **H** emolysis
+- **E** levated **L** iver enzymes
+- **L** ow **P** latelets
+Associada a altos riscos de mortalidade materna.
+Nela, há ativação intr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODY2NTE4MSwtMTczMjUwNDk5MV19
+eyJoaXN0b3J5IjpbNjAwOTg0MzE3LC0xNzMyNTA0OTkxXX0=
 -->
