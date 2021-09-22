@@ -75,6 +75,11 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **Controle laboratorial**
 - **Avaliação do bem-estar e crescimento fetal:** cardiotocografia diária se > 26 semanas + Doppler fetal duas vezes por semana
 - **Corticoide para amadurecimento pulmonar:** betametasona 12mg IM 24/24h por 48h, ou dexametasona 6mg IM 12/12h por 48h
+
+
+## Síndrome HELP
+- **H** emólise
+- **EL** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2ODk4OTQsLTE3MzI1MDQ5OTFdfQ==
+eyJoaXN0b3J5IjpbMTE4ODY2NTE4MSwtMTczMjUwNDk5MV19
 -->
