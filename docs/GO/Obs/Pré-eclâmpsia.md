@@ -66,8 +66,11 @@ Uso de antihipentensivos:
 ||Carvedilol|12,5 a 50mg/dia
 |Bloqueadores de canal de cálcio| Anlodipino| 5 a 20mg/dia, dose única
 
-São contraindicados IECA e BRA na gestação, pois estão asso
+São contraindicados IECA e BRA na gestação, pois estão associados a anormalidades no desenvolvimento dos rins fetais quando usados a partir do segundo trimestre
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
+**> 34 semanas de gestação:** interrupção da gestação
+** < 24 semanas de gestação:** avaliar resolução de gestação
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMyOTAzLC0xNzMyNTA0OTkxXX0=
+eyJoaXN0b3J5IjpbLTQ5NDMyOTcyOSwtMTczMjUwNDk5MV19
 -->
