@@ -63,8 +63,11 @@ Uso de antihipentensivos:
 ||Clonidina| 0,1 a 0,2mg/dia
 ||Prazosina| 20 mg, 2 a 3x/dia
 |Bloqueadores adrenérgicos|Metoprolol|50 a 200mg/dia, até 2x/dia
+||Carvedilol|12,5 a 50mg/dia
+|Bloqueadores de canal de cálcio| Anlodipino| 5 a 20mg/dia, dose única
 
+São contraindicados IECA e BRA na gestação, pois estão asso
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTMyMzgsLTE3MzI1MDQ5OTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzMyOTAzLC0xNzMyNTA0OTkxXX0=
 -->
