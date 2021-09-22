@@ -60,10 +60,11 @@ Uso de antihipentensivos:
 | Classe do agente|Agente |Posologia|
 |---|---|---|
 |Simpatolíticos de ação central, alfa-2-agonistas |Metildopa | 750 a 2000 mg/dia até 4x/d|
-||Clonidina| 0,1 a 0,
+||Clonidina| 0,1 a 0,2mg/dia
+||Prazosina| 20 mg, 2 a 3x/dia
+|Bloqueadores adrenérgicos|Metoprolol|50 a 200mg/dia, até 2x/dia
 
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEzMzMwNzQsLTE3MzI1MDQ5OTFdfQ
-==
+eyJoaXN0b3J5IjpbLTM3OTMyMzgsLTE3MzI1MDQ5OTFdfQ==
 -->
