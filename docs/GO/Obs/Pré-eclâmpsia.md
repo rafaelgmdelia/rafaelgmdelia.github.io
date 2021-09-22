@@ -43,6 +43,10 @@ A pré-eclâmpsia é uma doença específica da gestação, classicamente diagno
 - **Epigastralgia**
 - **Escotomas visuais**
 - **Cefaleia**
+
+## Conduta mediante pré-eclâmpsia sem sinais de gravidade
+
+## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1MDQ5OTFdfQ==
+eyJoaXN0b3J5IjpbMTIxNTQ0OTg3LC0xNzMyNTA0OTkxXX0=
 -->
