@@ -57,12 +57,13 @@ Vigilância do bem-estar fetal e do crescimento fetal com USG obstétrico e Dopp
 Consultas ambulatoriais semanais;
 Pode-se manter a gestação até termo, com interrupção às 37 semanas (FEBRASGO)
 Uso de antihipentensivos:
-| | |
-|---|
-| | |
+| Classe do agente|Agente |Posologia|
+|---|---|---|
+|Simpatolíticos de ação central, alfa-2-agonistas |Metildopa | 750 a 2000 mg/dia até 4x/d|
+||Clonidina| 0,1 a 0,
 
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5ODgyMTEsLTE3MzI1MDQ5OTFdfQ
+eyJoaXN0b3J5IjpbLTE1NzEzMzMwNzQsLTE3MzI1MDQ5OTFdfQ
 ==
 -->
