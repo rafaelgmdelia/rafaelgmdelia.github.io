@@ -9,7 +9,7 @@
 - Outros: 
 	- Ceftriaxona + macrolídeo
 	- Azitromicina
-	- 
+
 ### Amigdalite
 - Maioria viral
 - S. pyogenes principal agente (15% a 20%)
@@ -107,6 +107,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODU4ODgwNiwtMTIwNjUwMjAxOSwxNj
+eyJoaXN0b3J5IjpbLTY2OTUxNDkyOSwtMTIwNjUwMjAxOSwxNj
 AwMzQ0MDY4LDEyNjI4ODIxMjVdfQ==
 -->
