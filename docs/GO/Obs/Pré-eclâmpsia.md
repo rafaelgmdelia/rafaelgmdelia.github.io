@@ -1,6 +1,8 @@
+
 ---
 layout: default
-title: Pré-eclampsia
+title: Pré-eclâmpsia
+parent: SHG
 ---
 # Pré-eclampsia
 {: .no_toc}
@@ -104,6 +106,6 @@ Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômito
 - Transfusão de plaquetas se < 20000 plaquetas/mm³ ou < 50000 plaquetas/mm³ na cesárea
 - A menor contagem de plaquetas acontece nas 23 horas pós-parto; pode ocorrer trombocitose de rebote
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc4MDQxMywxMjAxMzgyNCwtMTczMj
+eyJoaXN0b3J5IjpbLTg0NjM2MTQ2OCwxMjAxMzgyNCwtMTczMj
 UwNDk5MV19
 -->
