@@ -73,8 +73,8 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **24 a 33 semanas de gestação:** tentar manter gestação até 34 semanas;
 - **Anti-hipertensivo:** se PA < 160x110 mmHg, anti-hipertensivo VO; se PA >= 160x110 mmHg, uso de anti-hipertensivo IV + sulfato de magnésio
 - **Controle laboratorial**
-- **Avaliação do bem-estar e crescimento fetal:** cardiotocografia diária se > 26 semanas + DOpppler fetal, duas ve
+- **Avaliação do bem-estar e crescimento fetal:** cardiotocografia diária se > 26 semanas + Doppler fetal duas vezes por semana
+- **Corticoide para amadurecimento pulmonar:** betametasona 12mg IM 24/24h por 48h, ou dexametasona 6mg IM 12/12h por 48h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkyMTYwOTMsLTE3MzI1MDQ5OTFdfQ
-==
+eyJoaXN0b3J5IjpbODU2ODk4OTQsLTE3MzI1MDQ5OTFdfQ==
 -->
