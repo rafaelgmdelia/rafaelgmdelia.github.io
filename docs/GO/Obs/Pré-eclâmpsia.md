@@ -68,9 +68,10 @@ Uso de antihipentensivos:
 
 São contraindicados IECA e BRA na gestação, pois estão associados a anormalidades no desenvolvimento dos rins fetais quando usados a partir do segundo trimestre
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
-**> 34 semanas de gestação:** interrupção da gestação
-** < 24 semanas de gestação:** avaliar resolução de gestação
-
+- **> 34 semanas de gestação:** interrupção da gestação
+- ** < 24 semanas de gestação:** avaliar resolução de gestação
+- **24 a 33 semanas de gestação:** tentar manter gestação até 34 semanas;
+- **Anti-hipertensivo:** se PA < 160x110 mmHg, anti-hipertensivo VO; se PA > 160x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDMyOTcyOSwtMTczMjUwNDk5MV19
+eyJoaXN0b3J5IjpbLTczMzc5MzMxNSwtMTczMjUwNDk5MV19
 -->
