@@ -48,9 +48,14 @@ A pré-eclâmpsia é uma doença específica da gestação, classicamente diagno
 Monitorar pressão arterial, com redução da atividade física e pesagem diária;
 Não é necessário dieta hipossódica;
 Orientar paciente quanto a sintomas de eminência de eclâmpsia e sinais de pré-eclâmpsia grave;
-Controle laboratorial semanal>
+Controle laboratorial semanal:
+- HMG com contagem de plaquetas
+- Função renal (Cr sérica e Ureia)
+- Função hepática (transaminases)
+Vigilância do bem-estar fetal e do crescimento fetal com USG obstétrico e Doppler fetal
 
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NTkwNDU3LC0xNzMyNTA0OTkxXX0=
+eyJoaXN0b3J5IjpbLTEyMDcyODE0MjcsLTE3MzI1MDQ5OTFdfQ
+==
 -->
