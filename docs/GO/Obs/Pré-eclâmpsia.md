@@ -82,7 +82,10 @@ São contraindicados IECA e BRA na gestação, pois estão associados a anormali
 - **E** levated **L** iver enzymes
 - **L** ow **P** latelets
 Associada a altos riscos de mortalidade materna.
-Nela, há ativação intr
+Nela, há ativação intravascular da splaquetas e lesão endotelial;
+Ocorre mais no terceiro trimestre e 30% no pós-parto;
+Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômitos
+### Crit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwOTg0MzE3LC0xNzMyNTA0OTkxXX0=
+eyJoaXN0b3J5IjpbLTc3MzIzNTY0MSwtMTczMjUwNDk5MV19
 -->
