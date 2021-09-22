@@ -96,8 +96,10 @@ Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômito
 	- < 100000 plaquetas/mm³
 
 ### Tratamento
-- Exames laboratoriais a cada 12 horas; TGP > 2000 UI/L ou DHL > 3000 UI/L sugerem risco de mort
+- Exames laboratoriais a cada 12 horas; TGP > 2000 UI/L ou DHL > 3000 UI/L sugerem risco de mortalidade aumentados
+- Resolução da gestação
+- Corticoterapia: benefício duvidoso em aumentar as plaquetas; dexametasona 10mg IV 12/12h se plaquetas < 50000
+- Transfusão de plaquetas se < 20000 plaquetas/mm³ ou < 50000 pl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE1NjY5MjMsLTE3MzI1MDQ5OTFdfQ
-==
+eyJoaXN0b3J5IjpbNDYwMjMwODMyLC0xNzMyNTA0OTkxXX0=
 -->
