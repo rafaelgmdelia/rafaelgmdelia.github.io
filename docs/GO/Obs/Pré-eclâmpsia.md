@@ -52,12 +52,17 @@ Controle laboratorial semanal:
 - HMG com contagem de plaquetas
 - Função renal (Cr sérica e Ureia)
 - Função hepática (transaminases)
+
 Vigilância do bem-estar fetal e do crescimento fetal com USG obstétrico e Doppler fetal, com avaliação de crescimento fetal a cada três semanas e avaliação do ILA pelo menos semanalmente;
 Consultas ambulatoriais semanais;
 Pode-se manter a gestação até termo, com interrupção às 37 semanas (FEBRASGO)
-
+Uso de antihipentensivos:
+| | |
+|---|
+| | |
 
 ## Conduta mediante pré-eclâmpsia com sinais de gravidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMzI2MDksLTE3MzI1MDQ5OTFdfQ==
+eyJoaXN0b3J5IjpbLTEwODY5ODgyMTEsLTE3MzI1MDQ5OTFdfQ
+==
 -->
