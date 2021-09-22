@@ -1,4 +1,18 @@
-# Dispepsia
+---
+layout: default
+title: Dispesia
+---
+# Dispesia
+{: .no_toc}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Anamnese
 - Empachamento pós prandial
@@ -57,5 +71,5 @@ Caracteriza-se pela dispepsia sem causa secundária aparente e sintomas por 3 me
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzYwNDk1OV19
+eyJoaXN0b3J5IjpbMTkwMDQ4Mzc3NywxMDQ3NjA0OTU5XX0=
 -->
