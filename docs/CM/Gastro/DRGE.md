@@ -1,4 +1,20 @@
-# Doença do Refluxo Gastrosofágico (DRGE)
+---
+layout: default
+title: Doença do Refluxo Gastroesofágico (DRGE)
+---
+
+# Doença do Refluxo Gastroesofágico (DRGE)
+{: .no_toc}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Fatores de risco
 - Hérnia de hiato
 - IMC > 30
@@ -54,5 +70,6 @@ Em caso de dúvida diagnóstica, realizar pHmetria ou manometria para checar dif
 - Estenose traqueal ou laríngea
 - Tosse crônica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU3MTYxMzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzI5NTA1MzAsLTE4NDU3MTYxMzRdfQ
+==
 -->
