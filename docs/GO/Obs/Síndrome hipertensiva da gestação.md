@@ -1,3 +1,9 @@
+---
+layout: default
+title: SHG
+has_children: true
+---
+
 # Síndromes hipertensivas da gestação
 As síndromes hipertensivas representam uma das mais importantes causas de morte materna no Brasil. 
 
@@ -17,5 +23,5 @@ Aparecimento ou piora de proteinúria após a 20ª semana de gestação associad
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDk3NzUxMl19
+eyJoaXN0b3J5IjpbLTE2ODQ2NTQzNzUsLTUyMDk3NzUxMl19
 -->
