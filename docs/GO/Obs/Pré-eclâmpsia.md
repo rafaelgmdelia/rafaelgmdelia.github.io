@@ -85,7 +85,13 @@ Associada a altos riscos de mortalidade materna.
 Nela, há ativação intravascular da splaquetas e lesão endotelial;
 Ocorre mais no terceiro trimestre e 30% no pós-parto;
 Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômitos
-### Crit
+### Critérios diagnósticos
+- **Hemólise**
+	- Alterações eritrocitárias: esquizócitos
+	- Aumento de bilirubina total: > 1,2 mg%
+	- Aumento de DHL : > 600 UI/L
+- **Elevação de enzimas hepáticas**
+	- AST e/ou ALT > 2x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzIzNTY0MSwtMTczMjUwNDk5MV19
+eyJoaXN0b3J5IjpbLTczOTEzMTk1NSwtMTczMjUwNDk5MV19
 -->
