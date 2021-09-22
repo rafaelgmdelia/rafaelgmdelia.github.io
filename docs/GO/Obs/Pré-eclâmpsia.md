@@ -99,9 +99,10 @@ Sintomatologia: dor no quadrante superior direito abdominal + náuseas + vômito
 - Internação em UTI
 - Exames laboratoriais a cada 12 horas; TGP > 2000 UI/L ou DHL > 3000 UI/L sugerem risco de mortalidade aumentados
 - Resolução da gestação
-- Corticoterapia: benefício duvidoso em aumentar as plaquetas; dexametasona 10mg IV 12/12h se plaquetas < 50000
+- **Corticoterapia:** benefício duvidoso em aumentar as plaquetas; dexametasona 10mg IV 12/12h se plaquetas < 50000
 - Transfusão de plaquetas se < 20000 plaquetas/mm³ ou < 50000 plaquetas/mm³ na cesárea
 - A menor contagem de plaquetas acontece nas 23 horas pós-parto; pode ocorrer trombocitose de rebote
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTM4MjQsLTE3MzI1MDQ5OTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzc2NjU0NzIsMTIwMTM4MjQsLTE3Mz
+I1MDQ5OTFdfQ==
 -->
