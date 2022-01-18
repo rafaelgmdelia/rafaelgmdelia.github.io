@@ -37,7 +37,7 @@ parent: HIV
 - T20 - Enfuvirtida
 - 
 ### Inibidores de integrase
-- DTG - Dolutegravir: não há segurança do seu uso em gestantes, por isso não deve ser iniciado em mulheres em idade fértil ou nas primeiras 12 semanas de gestação; segunda opção: EFV
+- DTG - Dolutegravir: **não há segurança do seu uso em gestantes**, por isso não deve ser iniciado em mulheres em idade fértil ou nas primeiras 12 semanas de gestação; segunda opção: EFV
 
 
 ## Tratamento de 1ª escolha
@@ -58,6 +58,16 @@ parent: HIV
 	O tratamento de tuberculose deve ser começado inicialmente. 
 - CD4 < 50: introduzir TARV em até 2 semanas
 - CD4 > 50: introduzir TARV em até 8 semanas
+
+## Avaliação Ambulatorial
+
+- Contagem de células CD4+ e carga viral HIV
+- Sorologias: sífilis, hepatite B, hepatite C, Toxoplasmose, HTLV, Chagas
+- HMG, Ur, Creat, Urina 1, TGO/TGP, BTF, GGT, FA
+- Colesterol total e frações, TG, glicemia de jejum
+- PPD
+- RX de Tórax
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA1Mjk1ODI4LDM4ODgyNTIxOCwtMTMwND
